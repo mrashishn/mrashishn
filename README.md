@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashish
 - 👀 I’m interested in Big Data
-- 🌱 I’m currently learning Big Data
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me ...
 
